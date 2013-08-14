@@ -17,6 +17,6 @@ this code whom we both can refer to in correct reference was only 13. Anyways, d
 in your point of reference, past Abrar was too lazy to fix (aka the Abrar writing this right now).
 
 Issues:
--assignment3 / side-side collisions don't work
+- assignment3 / side-side collisions don't work
 - other assignments / a lot of other things
 
