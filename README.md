@@ -16,7 +16,7 @@ I'm talking to you future Abrar. This code is bad and you should feel bad. But t
 this code whom we both can refer to in correct reference was only 13. Anyways, don't be lazy. Fix this thing, which, 
 in your point of reference, past Abrar was too lazy to fix (aka the Abrar writing this right now).
 
-Issues:
-- assignment3 / side-side collisions don't work
-- other assignments / a lot of other things
+Issues
+- assignment3 : side-side collisions don't work
+- other assignments : a lot of other things
 
